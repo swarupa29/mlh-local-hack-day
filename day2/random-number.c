@@ -15,7 +15,6 @@ int main()
     for(i=0;i<19;i++)
     {
         printf(" linear random number: %lli \n",rand_gen1());
-        printf(" quadratic random number: %lli \n",rand_gen2());
     }
 }
 long long rand_gen1()
